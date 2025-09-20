@@ -1,0 +1,13 @@
+﻿# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# Local env & editor
+.env
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
